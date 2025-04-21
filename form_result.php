@@ -1,5 +1,5 @@
 <?php
-
+//مداد
 $username = trim($_POST['username'] ?? '');
 $email = trim($_POST['email'] ?? '');
 $age = trim($_POST['age'] ?? '');

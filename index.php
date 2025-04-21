@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!--add this view for show the data-->
 <head>
     <meta charset="UTF-8">
     <title>Register Form</title>

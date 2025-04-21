@@ -5,7 +5,7 @@ $age = "";
 $password = "";
 $confirm_password = "";
 $errors = [];
-//المشروع الاساسي من مداد
+//المشروع الاساسي من مداد 20
 
 if($_SERVER["REQUEST_METHOD"] == "POST"){
     $username = trim($_POST["username"]);
